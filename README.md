@@ -6,5 +6,5 @@ which is only available on browsers and, thanks to this repository, is available
 [Install here](https://github.com/Vey-vy/Madlions-Desktop/releases/tag/1.0.0)
 
 ![Home](./screen/home.png)
-![Keyboard](./screen/keyboard.pngs)
+![Keyboard](./screen/keyboard.png)
 ![Tools](./screen/tools.png)
